@@ -425,6 +425,7 @@
 /* Controls
   ---------------------------------------------- */
   .controls{
+    display: none;
     position:absolute;
     top:0px;
     width 20%;
